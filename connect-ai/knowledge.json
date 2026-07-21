@@ -78,5 +78,21 @@
     "category": "design",
     "source": "agent",
     "verified": true
+  },
+  {
+    "id": "n17846100106907782",
+    "text": "[운영 2026-07-21 사이클#26] 영숙: writer 행동: 등록 완료 예정 목록을 바탕으로, 고객/운영 관리 대시보드 초안(엑셀 또는 Notion  (오늘업무_2026-07-21/오늘브리핑.md)",
+    "tags": [
+      "2026",
+      "운영",
+      "사이클",
+      "영숙",
+      "writer",
+      "행동"
+    ],
+    "ts": 1784610010690,
+    "category": "business",
+    "source": "agent",
+    "verified": true
   }
 ]
